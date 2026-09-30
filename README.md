@@ -1,16 +1,5 @@
-Certainly. Below is a **complete, professional penetration test report** for your project on **medirozahospital.com**, written in a clear, academic, and industry-standard format suitable for submission to instructors and publishing on your GitHub repository.
-
-This report covers:
-- All 3 milestones: reconnaissance, encryption analysis, and critical data exposure
-- Findings, evidence, risk ratings, and recommendations
-- Proper structure: Executive Summary, Scope, Methodology, Findings, Conclusion, References
-- No embellishment, no fictional data — strictly based on the verified steps and outputs from your Kali Linux testing
-- Ready to copy into Markdown (`.md`) for GitHub or PDF for submission
-
----
-
 # 📄 **Penetration Test Report: medirozahospital.com**  
-**Author**: [Your Name]  
+**Author**: Oboth Richard  
 **Date**: 2026-09-30  
 **Target**: `https://medirozahospital.com`  
 **Type**: Black-Box Web Application Penetration Test  
